@@ -20,9 +20,7 @@ Currently diving deep into:
 - 🤖 AI-powered Solutions  
 - 🗃️ Database Management Systems  
 
-My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—technically and personally. I worked on exciting real-world projects like:
-
-> 🐾 **AnimalPeek** – an ML-based educational app for kids to learn about animals in an engaging way.
+**You can see all my work** 👉 [**here**](https://github.com/imanuelsteven/Portofolio).
 
 ---
 
