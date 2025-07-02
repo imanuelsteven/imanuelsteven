@@ -41,7 +41,7 @@ My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—tec
 ---
 
 <details>
-  <summary>📜 <strong>Certifications</strong></summary>
+  <summary>📜 <h3>Certifications</h3></summary>
 
   <br>
  <strong>Coursera : </strong>
@@ -61,7 +61,7 @@ My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—tec
   - [Generative AI for Everyone](https://coursera.org/share/ffda148e47ab53805c1ac4a4f6b5259f)
   - [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/76c5d5a33359afd2229fe77ffff96601)
  
-<strong>Dicodiing : </strong>
+<strong>Dicoding : </strong>
   - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/0LZ06L730Z65)
   - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/6RPN1EEV8X2M)
   - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/NVP7Q018RZR0)
