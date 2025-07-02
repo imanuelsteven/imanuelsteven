@@ -5,7 +5,7 @@
 <p align="center">
   🎓 Information Systems Student @ Satya Wacana Christian University <br>
   💡 Passionate about Data, Artificial Intelligence & Machine Learning <br>
-  🚀 Bangkit Academy 2024 | Machine Learning Path
+  🚀 Ex-Bangkit Academy 2024 | Machine Learning Path
 </p>
 
 ---
@@ -30,10 +30,13 @@ My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—tec
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 ---
 
