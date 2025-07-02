@@ -68,3 +68,10 @@ If you're into **Data, AI, or building cool, impactful projects**, let’s chat!
 - 🐙 [GitHub – @imanuelsteven](https://github.com/imanuelsteven)
 - ✉️ Reach me via email: tugasstevengraciano@gmail.com
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imanuelsteven/imanuelsteven/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imanuelsteven/imanuelsteven/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imanuelsteven/imanuelsteven/output/pacman-contribution-graph.svg">
+</picture>
+
