@@ -46,16 +46,21 @@ My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—tec
   <br>
  <strong>Coursera : </strong>
 
-  - 🧠 [**Machine Learning Specialist** – *Bangkit Academy 2024 (Google-backed)*](https://grow.google/bangkit/)
-  - 🎓 [**Deep Learning Specialization** – *Coursera by Andrew Ng*](https://coursera.org/verify/DEEP-LEARN-EXAMPLE)
-  - 📊 [**Data Analyst Track** – *Dicoding Indonesia*](https://www.dicoding.com/certificates/XYZ123)
-  - 📈 [**Data Visualization with Power BI** – *Dicoding Indonesia*](https://www.dicoding.com/certificates/ABC456)
-  - 🤖 [**AI for Everyone** – *Coursera by Andrew Ng*](https://coursera.org/verify/AI-EVERYONE-123)
-  - 📂 [**Database Design** – *Dicoding Indonesia*](https://www.dicoding.com/certificates/DB789)
-  - 🧪 [**Python for Data Science** – *IBM / Coursera*](https://coursera.org/verify/PYDATA123)
-  - 🏆 [**SQL for Data Analysis** – *Mode Analytics*](https://mode.com/sql-cert/USERNAME)
-  - 🔐 [**Cybersecurity Fundamentals** – *Google / Coursera*](https://coursera.org/verify/SECURE456)
-
+  - [Crash Course Python](https://coursera.org/share/c05c66af979838f2a3fcbd12f27de635)
+  - [Using Python to Interact with the Operating System](https://coursera.org/share/f5836ee308bd5422eaa61709cff5ca1f)
+  - [Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/416fff1af723e2225441894c761a8a78)
+  - [**Machine Learning Specialization Certificate**](https://coursera.org/share/aafaf1903143ff3395a207a4a6109fca)
+  - [**DeepLearning.AI TensorFlow Developer**](https://coursera.org/share/b34a82fb8e20168eace9148bd24f43c7)
+  - [Structuring Machine Learning Projects](https://coursera.org/share/b9a90fc99c5398f0eb6a24d3c29990bf)
+  - [Custom Models, Layers, and Loss Functions with TensorFlow](https://coursera.org/share/4d7c07b107cfdf6ea42988b75dbcdddd)
+  - [Custom and Distributed Training with TensorFlow](https://coursera.org/share/be4c713f240637f24367cd94940456ef)
+  - [Advanced Computer Vision with TensorFlow](https://coursera.org/share/a36e2adbd53872eeacedbefd7ea87a95)
+  - [Browser-based Models with TensorFlow.js](https://coursera.org/share/bfb5decacf242e3b118ae4a9491ff151)
+  - [Device-based Models with TensorFlow Lite](https://coursera.org/share/37f409c74df7d5aeb6b6d24a65b7e501)
+  - [Data Pipelines with TensorFlow Data Services](https://coursera.org/share/a9a75263ccce5dfdfa1a78b2a40f3c2f)
+  - [Generative AI for Everyone](https://coursera.org/share/ffda148e47ab53805c1ac4a4f6b5259f)
+  - [Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/76c5d5a33359afd2229fe77ffff96601)
+ 
 <strong>Dicodiing : </strong>
   - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/0LZ06L730Z65)
   - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/6RPN1EEV8X2M)
@@ -64,7 +69,7 @@ My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—tec
   - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/QLZ9VLYOEX5D)
   - [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/1RXY20NRKXVM)
   - [Belajar Dasar AI](https://www.dicoding.com/certificates/N9ZO9RR6RXG5)
-  - [Machine Learning Terapam](https://www.dicoding.com/certificates/1RXYEKNNKZVM)
+  - [Machine Learning Terapan](https://www.dicoding.com/certificates/1RXYEKNNKZVM)
 
 
 </details>
