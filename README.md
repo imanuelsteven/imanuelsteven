@@ -1,74 +1,72 @@
-<!-- Animated Header -->
+<!-- README.md for github.com/imanuelsteven -->
+
+<h1 align="center">Hi there, I'm Steven Graciano Immanuel Cahyono 👋</h1>
 
 <p align="center">
-<a href="https://github.com/imanuelsteven">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DInter%26size%3D24%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DHi%2Bthere%252C%2BI%27m%2BSteven%2BGraciano%2BImmanuel%2BCahyono%2B%25F0%259F%2591%258B%3BI%27m%2Ba%2Bpassionate%2BInformation%2BSystems%2BStudent%3BFocusing%2Bon%2BData%252C%2BAI%252C%2Band%2BMachine%2BLearning" alt="Typing SVG" />
-</a>
+  🎓 Information Systems Student @ Satya Wacana Christian University <br>
+  💡 Passionate about Data, Artificial Intelligence & Machine Learning <br>
+  🚀 Bangkit Academy 2024 | Machine Learning Path
 </p>
 
-<!-- Bio Section -->
+---
 
-Hi, I’m Steven Graciano Immanuel Cahyono, an Information Systems student at Satya Wacana Christian University who’s deeply passionate about Data, Artificial Intelligence, and Machine Learning.
+### 🚀 About Me
 
-I thrive on turning data into insights and building intelligent systems. My journey in the Bangkit Academy 2024 (Machine Learning Path) boosted both my technical and soft skills—from mastering Python, SQL, TensorFlow, and Pandas, to collaborating on real-world projects like AnimalPeek, an ML-based educational app for children.
+I'm an enthusiastic tech explorer who loves turning **data into insights** and building **intelligent systems**.
 
-<br/>
+Currently diving deep into:
+- 🧠 Machine Learning & Deep Learning  
+- 📊 Data Analytics & Visualization  
+- 🤖 AI-powered Solutions  
+- 🗃️ Database Management Systems  
 
-<!-- Interests Section -->
+My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—technically and personally. I worked on exciting real-world projects like:
 
-🔍 My Main Interests Include
-🤖 Machine Learning & Deep Learning
+> 🐾 **AnimalPeek** – an ML-based educational app for kids to learn about animals in an engaging way.
 
-📊 Data Analytics & Visualization
+---
 
-💡 AI-powered Solutions
+### 🛠️ Tech Stack & Tools
 
-🗄️ Database Management Systems
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-<br/>
+---
 
-<!-- Skills Section -->
+<details>
+  <summary>📜 Certifications</summary>
 
-💻 Languages and Tools
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-%2523F7931E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-Learn"/>
-</a>
-</p>
+- 🧠 **Machine Learning Specialist** – Bangkit Academy 2024 (Google-backed)
+- 🎓 **Deep Learning Specialization** – Coursera (Andrew Ng)
+- 📊 **Data Analyst Track** – Dicoding Indonesia
+</details>
 
-<br/>
+---
 
-<!-- GitHub Stats Section -->
+### 📈 GitHub Stats
 
-📊 My GitHub Stats
 <p align="center">
-<a href="https://github.com/imanuelsteven">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dimanuelsteven%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="imanuelsteven's GitHub stats" />
-</a>
-<a href="https://github.com/imanuelsteven">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dimanuelsteven%26layout%3Dcompact%26locale%3Den%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="imanuelsteven's top languages" />
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imanuelsteven&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanuelsteven&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
+---
 
-<!-- Connect Section -->
+### 🤝 Let’s Collaborate
 
-✨ Let's Connect!
-I'm constantly exploring how AI can solve real-life problems and love sharing and learning with others—whether it’s collaborating on projects, organizing tech events, or mentoring peers. Let’s connect if you’re into Data, AI, or want to build something impactful together!
+If you're into **Data, AI, or building cool, impactful projects**, let’s chat!
 
-<p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/steven-graciano-immanuel-cahyono" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="steven graciano immanuel cahyono" /></a>
+- 🔗 [LinkedIn – Steven Graciano Immanuel](https://www.linkedin.com/in/stevengraciano/)
+- 🐙 [GitHub – @imanuelsteven](https://github.com/imanuelsteven)
+- ✉️ Reach me via email: 682022007@student.uksw.edu
+
+---
+
+<p align="center">
+  <b>“Code for purpose, learn with passion, and build for impact.”</b> 🚀
 </p>
