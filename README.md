@@ -20,7 +20,7 @@ Currently diving deep into:
 - 🤖 AI-powered Solutions  
 - 🗃️ Database Management Systems  
 
-**You can see all my work** 👉 [**here**](https://github.com/imanuelsteven/Portofolio).
+**>> You can see all my work here** 👉 [**My Portofolio**](https://github.com/imanuelsteven/Portofolio).
 
 ---
 
@@ -89,9 +89,18 @@ Currently diving deep into:
 
 If you're into **Data, AI, or building cool, impactful projects**, let’s chat!
 
-- 🔗 [LinkedIn – Steven Graciano Immanuel](https://www.linkedin.com/in/stevengraciano/)
-- 🐙 [GitHub – @imanuelsteven](https://github.com/imanuelsteven)
-- ✉️ Reach me via email: tugasstevengraciano@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/stevengraciano/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" style="height:40px;"/>
+  </a>
+  <a href="https://github.com/imanuelsteven">
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" style="height:40px;"/>
+  </a>
+  <a href="mailto:tugasstevengraciano@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" style="height:40px;"/>
+  </a>
+</p>
+
 
 ---
 <picture>
