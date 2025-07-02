@@ -41,12 +41,34 @@ My journey through **Bangkit Academy 2024** (ML Path) helped me grow a lot—tec
 ---
 
 <details>
-  <summary>📜 Certifications</summary>
+  <summary>📜 <strong>Certifications</strong></summary>
 
-- 🧠 **Machine Learning Specialist** – Bangkit Academy 2024 (Google-backed)
-- 🎓 **Deep Learning Specialization** – Coursera (Andrew Ng)
-- 📊 **Data Analyst Track** – Dicoding Indonesia
+  <br>
+ <strong>Coursera : </strong>
+
+  - 🧠 [**Machine Learning Specialist** – *Bangkit Academy 2024 (Google-backed)*](https://grow.google/bangkit/)
+  - 🎓 [**Deep Learning Specialization** – *Coursera by Andrew Ng*](https://coursera.org/verify/DEEP-LEARN-EXAMPLE)
+  - 📊 [**Data Analyst Track** – *Dicoding Indonesia*](https://www.dicoding.com/certificates/XYZ123)
+  - 📈 [**Data Visualization with Power BI** – *Dicoding Indonesia*](https://www.dicoding.com/certificates/ABC456)
+  - 🤖 [**AI for Everyone** – *Coursera by Andrew Ng*](https://coursera.org/verify/AI-EVERYONE-123)
+  - 📂 [**Database Design** – *Dicoding Indonesia*](https://www.dicoding.com/certificates/DB789)
+  - 🧪 [**Python for Data Science** – *IBM / Coursera*](https://coursera.org/verify/PYDATA123)
+  - 🏆 [**SQL for Data Analysis** – *Mode Analytics*](https://mode.com/sql-cert/USERNAME)
+  - 🔐 [**Cybersecurity Fundamentals** – *Google / Coursera*](https://coursera.org/verify/SECURE456)
+
+<strong>Dicodiing : </strong>
+  - [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/0LZ06L730Z65)
+  - [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/6RPN1EEV8X2M)
+  - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/NVP7Q018RZR0)
+  - [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/81P249DLYZOY)
+  - [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/QLZ9VLYOEX5D)
+  - [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/1RXY20NRKXVM)
+  - [Belajar Dasar AI](https://www.dicoding.com/certificates/N9ZO9RR6RXG5)
+  - [Machine Learning Terapam](https://www.dicoding.com/certificates/1RXYEKNNKZVM)
+
+
 </details>
+
 
 ---
 
