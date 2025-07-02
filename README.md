@@ -18,7 +18,10 @@ Currently diving deep into:
 - 🧠 Machine Learning & Deep Learning  
 - 📊 Data Analytics & Visualization  
 - 🤖 AI-powered Solutions  
-- 🗃️ Database Management Systems  
+- 🗃️ Database Management Systems
+
+---
+### 🗃️ Portofolio
 
 **>> You can see all my work here** 👉 [**My Portofolio**](https://github.com/imanuelsteven/Portofolio).
 
