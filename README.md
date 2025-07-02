@@ -66,10 +66,5 @@ If you're into **Data, AI, or building cool, impactful projects**, let’s chat!
 
 - 🔗 [LinkedIn – Steven Graciano Immanuel](https://www.linkedin.com/in/stevengraciano/)
 - 🐙 [GitHub – @imanuelsteven](https://github.com/imanuelsteven)
-- ✉️ Reach me via email: 682022007@student.uksw.edu
+- ✉️ Reach me via email: tugasstevengraciano@gmail.com
 
----
-
-<p align="center">
-  <b>“Code for purpose, learn with passion, and build for impact.”</b> 🚀
-</p>
