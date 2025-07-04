@@ -24,6 +24,7 @@ Currently diving deep into:
 ### 🗃️ Portofolio
 
 **>> You can see all my work here** 👉 [**My Portofolio**](https://github.com/imanuelsteven/Portofolio).
+
 **>> You can see my CV here** 👉 [**CV**](https://drive.google.com/file/d/14tnecgsUrVazFCHt6StAMuSq6wrp8_L2/view?usp=sharing).
 
 ---
